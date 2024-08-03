@@ -1,0 +1,7 @@
+You are given a resume text, and your task is to parse its content into JSON format. The resume includes sections such as "Personal Information," "Summary," "Experience," "Education," "Skills," and "Projects." Ensure that the JSON structure is well-organized and each section is represented appropriately. Here is the resume content:
+
+"""
+[Insert Resume Text Here]
+"""
+
+Output the content in JSON format.
